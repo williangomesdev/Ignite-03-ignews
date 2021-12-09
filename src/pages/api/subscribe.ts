@@ -11,6 +11,7 @@ type User = {
   data: {
     stripe_customer_id: string;
   };
+
 };
 
 // eslint-disable-next-line import/no-anonymous-default-export
